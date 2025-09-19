@@ -22,9 +22,11 @@ with Velibor Mišić
 
 # Conferences and Talks
 * Randomized Robust Price Optimization.
+     * INFORMS Annual Meeting, Seattle, WA, October 2024.
      * INFORMS Annual Meeting, Phoenix, AZ, October 2023.
      * SoCal OR/OM Day, Marshall School of Business, USC, CA, May 2023.
 * Randomized Policy Optimization for Optimal Stopping.
+     * The International Conference on Stochastic Programming, Paris, France, July 2025.
      * INFORMS Annual Meeting, Phoenix, AZ, October 2023.
      * INFORMS MSOM Conference, Montréal, Canada, June 2023.
      * INFORMS Revenue Management and Pricing Section Conference, June 2022. (virtual)
