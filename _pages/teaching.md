@@ -4,8 +4,11 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+# Teaching 
+Undergraduate Program, HK PolyU Faculty of Business 
+* Business Analytics, Semester 1 and 2, 2024/25
 
-# Teaching Assistantships
+## Teaching Assistantships
 Master of Business Administration, UCLA Anderson School of Management
 * Fully-Employed MBA Program: Data and Decisions, Fall 2020 (2 sections), Instructor: Velibor Mišić
 * UCLA-NUS Executive MBA Program: Data Analysis and Management Decisions, Fall 2023 (1 section), Instructor: Rakesh Sarin
