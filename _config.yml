@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinyi Guan"
 title_separator          : "-"
 name                     : &name "Xinyi Guan"
-description              : &description "Ph.D. student at UCLA Anderson"
+description              : &description "Assistant Professor at HK PolyU LMS"
 url                      : https://xinyi-guan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinyi-guan/xinyi-guan.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xinyi Guan"
   avatar           : "bio_photo.JPG"
-  bio              : "Ph.D. student at UCLA Anderson School of Management"
-  location         : "Los Angeles, CA"
+  bio              : "Assistant Professor at HK PolyU LMS"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : 
