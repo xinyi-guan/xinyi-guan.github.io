@@ -15,7 +15,10 @@ with Velibor Mišić
     * Revise and resubmit in *Management Science*.
     * Finalist, INFORMS Finance Section Best Student Paper Competition, 2023
 
+# Working Paper
 
+* Optimization of Rule-Based Early Warning Systems<br>
+  with Florin Ciocan and Velibor Mišić
 
 # Conferences and Talks
 * Randomized Robust Price Optimization.
